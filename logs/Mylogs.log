@@ -1,0 +1,9 @@
+[INFO ] 2019-04-12 12:11:40.772 [main] HomepageTest - Launching Homepage
+[INFO ] 2019-04-12 12:11:40.803 [main] HomepageTest - Verifying Homepage Title
+[INFO ] 2019-04-12 12:11:40.811 [main] HomepageTest - Clicking on GMail
+[INFO ] 2019-04-12 12:14:41.871 [main] HomepageTest - Launching Homepage
+[INFO ] 2019-04-12 12:14:41.898 [main] HomepageTest - Verifying Homepage Title
+[INFO ] 2019-04-12 12:14:41.905 [main] HomepageTest - Clicking on GMail
+[INFO ] 2019-04-12 14:17:03.219 [main] HomepageTest - Launching Homepage
+[INFO ] 2019-04-12 14:17:03.248 [main] HomepageTest - Verifying Homepage Title
+[INFO ] 2019-04-12 14:17:03.256 [main] HomepageTest - Clicking on GMail
