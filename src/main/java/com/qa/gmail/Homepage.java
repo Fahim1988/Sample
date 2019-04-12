@@ -6,8 +6,8 @@ import org.openqa.selenium.support.PageFactory;
 
 public class Homepage extends Basepage {
 	
-	@FindBy(xpath="")
-	WebElement title;
+	//@FindBy(xpath="")
+	//WebElement title;
 	@FindBy(xpath="//a[contains(text(),'Gmail')]")
 	WebElement gmail;
 	public Homepage() {

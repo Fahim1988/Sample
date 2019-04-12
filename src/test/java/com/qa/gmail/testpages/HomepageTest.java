@@ -1,18 +1,14 @@
 package com.qa.gmail.testpages;
 
-import java.io.IOException;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
-import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import com.qa.gmail.Basepage;
 import com.qa.gmail.Homepage;
-import com.relevantcodes.extentreports.ExtentReports;
-import com.relevantcodes.extentreports.ExtentTest;
 
 public class HomepageTest extends Basepage{
 	Logger logger=LogManager.getLogger(HomepageTest.class);

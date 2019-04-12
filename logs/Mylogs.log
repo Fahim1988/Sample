@@ -7,3 +7,9 @@
 [INFO ] 2019-04-12 14:17:03.219 [main] HomepageTest - Launching Homepage
 [INFO ] 2019-04-12 14:17:03.248 [main] HomepageTest - Verifying Homepage Title
 [INFO ] 2019-04-12 14:17:03.256 [main] HomepageTest - Clicking on GMail
+[INFO ] 2019-04-12 15:34:40.094 [main] HomepageTest - Launching Homepage
+[INFO ] 2019-04-12 15:34:40.122 [main] HomepageTest - Verifying Homepage Title
+[INFO ] 2019-04-12 15:34:40.129 [main] HomepageTest - Clicking on GMail
+[INFO ] 2019-04-12 15:43:15.418 [main] HomepageTest - Launching Homepage
+[INFO ] 2019-04-12 15:43:15.445 [main] HomepageTest - Verifying Homepage Title
+[INFO ] 2019-04-12 15:43:15.453 [main] HomepageTest - Clicking on GMail
